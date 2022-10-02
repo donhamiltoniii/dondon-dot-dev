@@ -12,7 +12,9 @@ const Home: NextPage = () => {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main>Dondon Dot Dev</main>
+      <main>
+        <h1>Dondon Dot Dev</h1>
+      </main>
     </div>
   );
 };
